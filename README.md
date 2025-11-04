@@ -9,7 +9,7 @@ UI goals
 - A dark, minimal calculator body with realistic buttons.  
 - Digital-style display.
 - Layout that stays centered and neat on any screen size  
-- Clean typography and subtle lighting for that "physical calculator" vibe  
  
+
 
 
